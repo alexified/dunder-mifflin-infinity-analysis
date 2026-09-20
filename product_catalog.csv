@@ -1,0 +1,9 @@
+﻿product_id,product_name,category,unit,list_price,unit_cost
+P001,Copy Paper - 20 lb,Paper,case,42.5,27.0
+P002,Premium Copy Paper - 24 lb,Paper,case,55.0,34.5
+P003,Colored Paper Assortment,Paper,case,61.0,39.0
+P004,Cardstock - White,Paper,case,68.0,44.0
+P005,Legal Pads - Yellow,Office Supplies,box,28.0,17.0
+P006,Envelopes #10,Office Supplies,box,31.5,19.0
+P007,Printer Labels,Office Supplies,box,37.0,22.5
+P008,Manila Folders,Office Supplies,box,34.0,21.0

@@ -1,0 +1,17 @@
+﻿cost_id,cost_date,cost_category,description,amount,cost_type,assumption_flag
+COST001,2007-07-01,Development,External development contract,185000,One-time,Synthetic assumption
+COST002,2007-08-15,Infrastructure,Servers and hosting setup,42000,One-time,Synthetic assumption
+COST003,2007-09-10,Integration,Legacy sales system integration,68000,One-time,Synthetic assumption
+COST004,2007-10-01,Marketing,Launch campaign and branch materials,37500,One-time,Synthetic assumption
+COST005,2007-10-11,Events,Corporate launch party + branch satellite events,28500,One-time,Synthetic assumption
+COST006,2007-10-01,Payroll,DMI support allocation - Oct,24000,Monthly,Synthetic assumption
+COST007,2007-11-01,Payroll,DMI support allocation - Nov,24000,Monthly,Synthetic assumption
+COST008,2007-12-01,Payroll,DMI support allocation - Dec,24000,Monthly,Synthetic assumption
+COST009,2008-01-01,Payroll,DMI support allocation - Jan,26000,Monthly,Synthetic assumption
+COST010,2008-02-01,Payroll,DMI support allocation - Feb,26000,Monthly,Synthetic assumption
+COST011,2008-03-01,Payroll,DMI support allocation - Mar,26000,Monthly,Synthetic assumption
+COST012,2008-04-01,Payroll,DMI support allocation - Apr,28000,Monthly,Synthetic assumption
+COST013,2008-05-01,Payroll,DMI support allocation - May partial,14000,Monthly,Synthetic assumption
+COST014,2008-01-18,Security,Emergency moderation/security remediation,46500,One-time,Synthetic assumption
+COST015,2008-04-07,Overtime,Saturday sales-data re-entry overtime,12800,One-time,Synthetic assumption
+COST016,2008-05-16,Shutdown,Forensic audit and shutdown estimate,31000,One-time,Synthetic assumption

@@ -1,0 +1,32 @@
+﻿customer_id,customer_name,customer_type,state,account_owner_id,status
+C001,Blue Cross of Pennsylvania,Public Sector,PA,S001,Active
+C002,Lackawanna County Schools,Public Sector,PA,S004,Active
+C003,Stone & Son Suit Warehouse,Enterprise,PA,S005,Active
+C004,Cress Tool & Die,Public Sector,PA,S004,Active
+C005,Dunmore Dental Group,Public Sector,PA,S002,Active
+C006,Scranton Business Park,SMB,PA,S004,Active
+C007,Keystone Industrial Supply,Public Sector,PA,S002,Active
+C008,Northeast Office Solutions,Mid-Market,PA,S003,Active
+C009,Penn Paper & Packaging,Public Sector,PA,S001,Active
+C010,Lake Wallenpaupack Marina,Mid-Market,PA,S005,Active
+C011,Steamtown Legal Partners,Public Sector,PA,S001,Active
+C012,Anthracite Accounting,Mid-Market,PA,S003,Active
+C013,Electric City Printing,Public Sector,PA,S003,Active
+C014,Green Ridge Medical,Enterprise,PA,S005,Active
+C015,Wilkes-Barre Manufacturing,SMB,PA,S005,Active
+C016,Pocono Hospitality Group,SMB,PA,S005,Active
+C017,Allegheny Office Interiors,Enterprise,PA,S003,Active
+C018,Northeastern Pennsylvania University,Enterprise,PA,S005,Active
+C019,Valley View Realty,Mid-Market,PA,S003,Active
+C020,Montage Mountain Services,Mid-Market,PA,S002,Active
+C021,Carbondale Community Bank,Public Sector,PA,S005,Active
+C022,Honesdale Insurance Group,Mid-Market,PA,S004,Active
+C023,Abington Veterinary Center,Mid-Market,PA,S002,Active
+C024,Taylor Logistics,Public Sector,PA,S002,Active
+C025,Old Forge Foods,Mid-Market,PA,S003,Active
+C026,Clarks Summit Pediatrics,SMB,PA,S002,Active
+C027,Moosic Auto Group,Mid-Market,PA,S005,Active
+C028,Jessup Municipal Services,Public Sector,PA,S003,Active
+C029,Archbald Engineering,Mid-Market,PA,S004,Active
+C030,Throop Pharmacy,Mid-Market,PA,S001,Active
+C031,Kelly Kapoor - Test Account,Mid-Market,PA,S001,Active

@@ -1,0 +1,6 @@
+﻿sales_rep_id,sales_rep_name,role,branch,commission_rate,hire_date,status
+S001,Jim Halpert,Sales,Scranton,0.07,2001-10-01,Active
+S002,Dwight Schrute,Sales,Scranton,0.07,2001-03-12,Active
+S003,Stanley Hudson,Sales,Scranton,0.065,1998-06-15,Active
+S004,Phyllis Lapin-Vance,Sales,Scranton,0.065,1999-09-20,Active
+S005,Andy Bernard,Sales,Scranton,0.06,2007-02-05,Active
